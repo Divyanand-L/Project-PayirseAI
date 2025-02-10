@@ -85,7 +85,7 @@ flutter test
 
 ## 📢 Featured on LinkedIn!
 Check out our latest post about this project on LinkedIn:  
-👉 [Read the post here](https://www.linkedin.com/posts/example-post-link)
+👉 [Read the post here](https://www.linkedin.com/posts/divyanand-l_payirseai-hackathon-flutter-activity-7232645736109129728-M63A?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEgFSlYBpg0U171sr7WxRjRvnDQUueRn1QY)
 
 ## Contribution Guidelines
 1. Fork the repository.
