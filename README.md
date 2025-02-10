@@ -87,15 +87,5 @@ flutter test
 Check out our latest post about this project on LinkedIn:  
 👉 [Read the post here](https://www.linkedin.com/posts/divyanand-l_payirseai-hackathon-flutter-activity-7232645736109129728-M63A?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEgFSlYBpg0U171sr7WxRjRvnDQUueRn1QY)
 
-## Contribution Guidelines
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature-branch`
-3. Commit changes: `git commit -m 'Add new feature'`
-4. Push to GitHub: `git push origin feature-branch`
-5. Open a Pull Request.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 **Developed by Divyanand L & Team** 🚀
