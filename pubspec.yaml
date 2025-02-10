@@ -1,0 +1,74 @@
+name: Payirseai
+description: A new Flutter project.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.0 <4.0.0'
+
+dependencies:
+  flutter_launcher_icons: ^0.13.1
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  flutter_svg: 
+  flutter_bloc:
+  hydrated_bloc:
+  path_provider:
+  firebase_core:
+  firebase_auth:
+  get_it: 
+  dartz: 
+  http: 
+  csv:
+  fluttertoast:
+  geocoding:
+  geolocator:
+  provider:
+  flutter_gemini:
+  animated_text_kit:
+  progress_indicators:
+  shared_preferences: ^2.3.1
+  csc_picker: ^0.2.7 
+  flutter_localizations:
+    sdk: flutter
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  intl:
+
+flutter:
+  generate: true
+  uses-material-design: true
+
+  assets:
+    - assets/fonts/
+    - assets/images/
+    - assets/appimages/
+    - assets/vectors/
+    - assets/lang/en.json
+    - assets/lang/ta.json
+
+  fonts:
+    - family: Satoshi
+      fonts:
+        - asset: assets/fonts/Satoshi-Black.ttf
+          weight: 900
+        - asset: assets/fonts/Satoshi-Bold.ttf
+          weight: 600
+        - asset: assets/fonts/Satoshi-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/Satoshi-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/Satoshi-Light.ttf
+          weight: 300
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/images/icon.png"
