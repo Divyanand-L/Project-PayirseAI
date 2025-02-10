@@ -83,6 +83,10 @@ To run unit tests:
 flutter test
 ```
 
+## 📢 Featured on LinkedIn!
+Check out our latest post about this project on LinkedIn:  
+👉 [Read the post here](https://www.linkedin.com/posts/example-post-link)
+
 ## Contribution Guidelines
 1. Fork the repository.
 2. Create a new branch: `git checkout -b feature-branch`
